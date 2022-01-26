@@ -1,0 +1,8 @@
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe.config
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.exe
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\bin\Debug\NumberGenerator.pdb
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.AssemblyReference.cache
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.exe
+C:\Users\MattC\Documents\GitHub\dotnet-console-app\NumberGenerator\NumberGenerator\obj\Debug\NumberGenerator.pdb
